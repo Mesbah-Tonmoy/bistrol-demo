@@ -1,0 +1,115 @@
+
+---Downloaded files---
+The import files for: Corporate Agency were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/bristol-demo
+Data file = C:\xampp\htdocs\bristol-demo/wp-content/uploads/2022/10/demo-content-import-file_2022-10-26__16-25-00.xml
+Widget file = C:\xampp\htdocs\bristol-demo/wp-content/uploads/2022/10/demo-widgets-import-file_2022-10-26__16-25-00.json
+Customizer file = C:\xampp\htdocs\bristol-demo/wp-content/uploads/2022/10/demo-customizer-import-file_2022-10-26__16-25-00.dat
+Redux files:
+axil_options -> C:\xampp\htdocs\bristol-demo/wp-content/uploads/2022/10/demo-redux-import-file_0-2022-10-26__16-25-00.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2022-04-11__08-42-30" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2022-04-11__08-42-30" (Media)
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Imported
+Abstrak: Recent Post - Recent post - Imported
+abstrak: Social Media Widget - Follow: - Imported
+Image - No Title - Imported
+
+Shop Sidebar : 
+
+Product Search - No Title - Imported
+Products list - Products - Imported
+Product Categories - Product categories - Imported
+Recently Viewed Products list - Recently Viewed Products - Imported
+
+Footer 1 : 
+
+Mailchimp Sign-Up Form - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - Services - Imported
+
+Footer 3 : 
+
+Navigation Menu - Resourses - Imported
+
+Footer 4 : 
+
+Navigation Menu - Support - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: axil_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

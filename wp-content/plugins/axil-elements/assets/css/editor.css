@@ -1,0 +1,17 @@
+#elementor-panel-category-axil-elements-widgets .elementor-panel-category-items .elementor-element-wrapper{
+    position: relative;
+}
+
+#elementor-panel-category-axil-elements-widgets .elementor-panel-category-items .elementor-element-wrapper:before {
+    background: url("../images/icons/brand.png");
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: 5px;
+    top: 5px;
+    content: "";  
+    z-index: 1;
+    background-size: 100%;
+    border-radius: 6px;
+    opacity: 0.5;
+}

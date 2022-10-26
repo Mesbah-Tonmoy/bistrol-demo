@@ -1,0 +1,622 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Abstrak\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-03 13:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: abstrak"
+
+#: inc/global-functions.php:24
+msgid " min read"
+msgstr ""
+
+#: inc/comment-form.php:41 inc/comment-form.php:112
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/underscore/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: inc/global-functions.php:58
+msgid "--- Select ---"
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#. Name of the theme
+msgid "Abstrak"
+msgstr ""
+
+#: inc/customizer/color.php:57
+msgid "Abstrak Colors Options"
+msgstr ""
+
+#: inc/tgm-config.php:27
+msgid "Abstrak Demo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Abstrak is a modern Responsive Multi-Purpose WordPress theme for startup "
+"digital agency and SEO agency that offers design, development and online "
+"marketing services to its client."
+msgstr ""
+
+#: inc/customizer/color.php:135
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/color.php:158
+msgid "Accent Color 2"
+msgstr ""
+
+#: inc/global-functions.php:194
+msgid "Activate Ad"
+msgstr ""
+
+#: inc/global-functions.php:202
+msgid "Ad Type"
+msgstr ""
+
+#: inc/widget-area-register.php:14
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/tgm-config.php:34
+msgid "Advanced Custom Fields Pro"
+msgstr ""
+
+#: inc/underscore/template-functions.php:169
+#: inc/underscore/template-functions.php:175
+msgid "All Case Study"
+msgstr ""
+
+#: inc/global-functions.php:440 inc/global-functions.php:442
+#: inc/underscore/template-functions.php:164
+msgid "All Projects"
+msgstr ""
+
+#: inc/global-functions.php:438 inc/underscore/template-functions.php:155
+msgid "All Services"
+msgstr ""
+
+#: inc/global-functions.php:436 inc/underscore/template-functions.php:147
+msgid "All Team Member"
+msgstr ""
+
+#: inc/customizer/color.php:60
+msgid "Allows you to customize some example settings for axil."
+msgstr ""
+
+#: template-parts/title/breadcrumb.php:181
+#: template-parts/title/breadcrumb.php:185
+#: template-parts/title/breadcrumb.php:189
+#: template-parts/title/breadcrumb.php:196
+#: template-parts/title/breadcrumb.php:200
+#: template-parts/title/breadcrumb.php:205
+msgid "Archives"
+msgstr ""
+
+#: template-parts/title/breadcrumb.php:216
+msgid "Author: "
+msgstr ""
+
+#: inc/tgm-config.php:20
+msgid "Axil Elements"
+msgstr ""
+
+#. Author of the theme
+msgid "Axilthemes"
+msgstr ""
+
+#: inc/underscore/template-functions.php:234
+#: inc/underscore/template-functions.php:352
+msgid "Best Cleaning Service Company"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Template"
+msgstr ""
+
+#: inc/global-functions.php:428 inc/underscore/template-functions.php:135
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/color.php:225
+msgid "Body Color"
+msgstr ""
+
+#: 404.php:46 404.php:49 404.php:55 construction.php:105 construction.php:108
+msgid "Bubble"
+msgstr ""
+
+#: construction.php:98
+msgid "Coming Soon"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:50
+#, php-format
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:46
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/tgm-config.php:53
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/global-functions.php:205 inc/global-functions.php:240
+msgid "Custom Code"
+msgstr ""
+
+#: functions.php:160
+msgid "Dark"
+msgstr ""
+
+#: inc/scripts.php:186
+msgid "Days"
+msgstr ""
+
+#: inc/global-functions.php:196
+msgid "Disabled"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Yantramanav, translate this to 'off'. Do not translate into your own language.
+#: inc/global-functions.php:649 inc/scripts.php:165
+msgctxt "DM Sans: on or off"
+msgid "on"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/underscore/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgm-config.php:48
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: comments.php:103
+msgid "Email "
+msgstr ""
+
+#: inc/global-functions.php:195
+msgid "Enabled"
+msgstr ""
+
+#: template-parts/title/breadcrumb.php:231
+msgid "Error 404"
+msgstr ""
+
+#: inc/customizer/color.php:387
+msgid "Footer"
+msgstr ""
+
+#: inc/widget-area-register.php:31
+msgid "Footer 1"
+msgstr ""
+
+#: inc/widget-area-register.php:32
+msgid "Footer 2"
+msgstr ""
+
+#: inc/widget-area-register.php:33
+msgid "Footer 3"
+msgstr ""
+
+#: inc/widget-area-register.php:34
+msgid "Footer 4"
+msgstr ""
+
+#: inc/customizer/color.php:510
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/color.php:491
+msgid "Footer Bottom Border Color"
+msgstr ""
+
+#: functions.php:71
+msgid "Footer Bottom Menu (No depth supported)"
+msgstr ""
+
+#: comments.php:100
+msgid "Full Name"
+msgstr ""
+
+#: inc/customizer/color.php:66
+msgid "General"
+msgstr ""
+
+#: functions.php:203
+msgid "Green to yellow"
+msgstr ""
+
+#: inc/customizer/color.php:314
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/color.php:192
+msgid "Heading Color"
+msgstr ""
+
+#: template-parts/title/breadcrumb.php:23
+msgid "Home"
+msgstr ""
+
+#: template-parts/header/header-1.php:25 template-parts/header/header-1.php:46
+#: template-parts/header/header-2.php:27 template-parts/header/header-2.php:44
+#: template-parts/header/header-3.php:32 template-parts/header/header-3.php:54
+#: template-parts/header/header-4.php:28 template-parts/header/header-4.php:46
+msgid "home"
+msgstr ""
+
+#: inc/scripts.php:187
+msgid "Hour"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://axilthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://axilthemes.com/themes/abstrak/"
+msgstr ""
+
+#: functions.php:183
+msgid "Huge"
+msgstr ""
+
+#: inc/global-functions.php:213
+msgid "Image"
+msgstr ""
+
+#: inc/global-functions.php:204
+msgid "Image Link"
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:178
+msgid "Large"
+msgstr ""
+
+#. %s: post title
+#: inc/underscore/template-tags.php:82
+#, php-format
+msgid "Leave a Comment <span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: comments.php:115
+msgid "Leave a Reply"
+msgstr ""
+
+#: 404.php:52
+msgid "Line"
+msgstr ""
+
+#: inc/global-functions.php:220
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/color.php:450
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/color.php:471
+msgid "Link Hover Color"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/underscore/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/comment-form.php:62 inc/comment-form.php:132
+msgid "Log in to Reply"
+msgstr ""
+
+#: inc/tgm-config.php:58
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#. Name of the template
+msgid "Maintenance"
+msgstr ""
+
+#: inc/customizer/color.php:281
+msgid "Meta Link Color"
+msgstr ""
+
+#: inc/customizer/color.php:301
+msgid "Meta Link Hover Color"
+msgstr ""
+
+#: inc/customizer/color.php:261
+msgid "Meta Text Color"
+msgstr ""
+
+#: inc/scripts.php:188
+msgid "Minute"
+msgstr ""
+
+#: inc/customizer/color.php:374
+msgid "Navigation Background Color"
+msgstr ""
+
+#: inc/customizer/color.php:334
+msgid "Navigation Link Color"
+msgstr ""
+
+#: inc/customizer/color.php:354
+msgid "Navigation Link Hover + Active Color"
+msgstr ""
+
+#: inc/comment-nav.php:18
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:173
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: functions.php:70
+msgid "Offcanvas Menu"
+msgstr ""
+
+#: inc/comment-nav.php:13
+msgid "Older Comments"
+msgstr ""
+
+#: inc/tgm-config.php:64
+msgid "One Click Demo"
+msgstr ""
+
+#: inc/global-functions.php:228
+msgid "Open Advertisement Tab"
+msgstr ""
+
+#: inc/global-functions.php:230
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/global-functions.php:231
+msgid "Open in Same tab"
+msgstr ""
+
+#: template-parts/title/breadcrumb.php:221
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:121
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search ..."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: inc/global-functions.php:643 inc/scripts.php:158
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#. %s: post author.
+#: inc/underscore/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: comments.php:111
+msgid "Post Comment"
+msgstr ""
+
+#. %s: post date.
+#: inc/underscore/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/underscore/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:69 functions.php:140
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/color.php:89
+msgid "Primary Color"
+msgstr ""
+
+#: inc/widget-area-register.php:21
+msgid "Projects"
+msgstr ""
+
+#: functions.php:223
+msgid "Purple to red"
+msgstr ""
+
+#: functions.php:193
+msgid "Purple to yellow"
+msgstr ""
+
+#: template-parts/post/content-audio.php:35
+#: template-parts/post/content-gallery.php:50
+#: template-parts/post/content-link.php:31
+#: template-parts/post/content-video.php:33 template-parts/post/content.php:31
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? Please create a post."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Nunito+Sans Sans, translate this to 'off'. Do not translate into your own language.
+#: inc/register-custom-fonts.php:12
+msgctxt "Red Hat Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:228
+msgid "Red to purple"
+msgstr ""
+
+#: functions.php:213
+msgid "Red to yellow"
+msgstr ""
+
+#: inc/tgm-config.php:42
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/comment-form.php:61
+msgid "Reply"
+msgstr ""
+
+#: inc/global-functions.php:417 inc/underscore/template-functions.php:126
+#: inc/underscore/template-functions.php:223
+msgid "Search Results for : "
+msgstr ""
+
+#: template-parts/title/breadcrumb.php:226
+msgid "Search results for: "
+msgstr ""
+
+#: inc/scripts.php:189
+msgid "Second"
+msgstr ""
+
+#: functions.php:145
+msgid "Secondary"
+msgstr ""
+
+#: inc/customizer/color.php:112
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/helper/layout-trait.php:406
+msgid "shop"
+msgstr ""
+
+#: inc/widget-area-register.php:12 inc/helper/layout-trait.php:405
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:168
+msgid "Small"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/global-functions.php:242
+msgid "Supports: Shortcode, Adsense, Text, HTML, Scripts"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/underscore/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: functions.php:150
+msgid "Tertiary"
+msgstr ""
+
+#: inc/customizer/color.php:429
+msgid "Text Color"
+msgstr ""
+
+#: inc/global-functions.php:614
+#, php-format
+msgid "This input field has support for the following HTML tags: %1$s"
+msgstr ""
+
+#: inc/customizer/color.php:408
+msgid "Title Color"
+msgstr ""
+
+#: inc/lab/axil-post-views.php:68
+msgid "Views"
+msgstr ""
+
+#: comments.php:105
+msgid "Website"
+msgstr ""
+
+#: functions.php:155
+msgid "White"
+msgstr ""
+
+#: comments.php:113
+msgid "Write your comment here… "
+msgstr ""
+
+#: functions.php:208
+msgid "Yellow to green"
+msgstr ""
+
+#: functions.php:198
+msgid "Yellow to purple"
+msgstr ""
+
+#: functions.php:218
+msgid "Yellow to red"
+msgstr ""
+
+#: template-parts/content-single.php:72
+#: template-parts/post/content-audio.php:31
+msgid "Your browser does not support the audio tag."
+msgstr ""
+
+#: inc/comment-form.php:32 inc/comment-form.php:145
+msgid "Your comment is awaiting moderation."
+msgstr ""
